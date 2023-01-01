@@ -20,4 +20,8 @@ Developed a Hotel Booking Data Analysis project by performing the actions are:
  
  3. What trends can we see in the data, focuse on average daily rate and guest to explore seasonality ?
  
- 
+ ### Power BI Dashboard Report:
+
+
+ ![Screenshot_20230102_044223](https://user-images.githubusercontent.com/120455099/210187211-f65234f1-5be8-4681-a2f6-85cc625b3288.png)
+
